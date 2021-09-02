@@ -1,6 +1,6 @@
 ## Live coding task
 
-This is a NextJS project prepared for live coding interview.
+This is a NextJS project prepared for a live coding interview.
 
 The task is to create a home page for this app with two components on it.
 
@@ -15,14 +15,14 @@ This form should contain the following inputs:
 
 ### 2 User card
 
-User card should output the following details about a Github user who's name was entered in the form:
+User card should output the following details about a Github user whose name was entered in the form:
 
 - User avatar
 - List of user's public Github repositories
 - User email (assuming this is the email entered in the form)
 - User relocation city (taken from the form)
 
-User's repository list should be sorted by number of stars (from the most starred) and should contain the following details:
+The user’s repository list should be sorted by a count of stars (from the most starred) and should contain the following details:
 - Repository name
 - Count of stars
 - A link to the repository card (already implemented in this app see `pages/repository/[owner]/[name]`).
@@ -37,4 +37,6 @@ User's repository list should be sorted by number of stars (from the most starre
 - basic accessibility
 - app state management explanation
 - SSR/CSR/SSG explanation
+
+
 
