@@ -21,5 +21,5 @@ This project includes GraphQL client configured for fetching public Github conte
 Useful references:
 
 - NextJS documentation https://nextjs.org/docs/basic-features/pages
-- Github GraphQL explorer https://docs.github.com/en/graphql/overview/explorer (you'll need to sign up via your Github account to use it)
+- Github GraphQL API explorer https://docs.github.com/en/graphql/overview/explorer (you'll need to sign up via your Github account to use it)
 
